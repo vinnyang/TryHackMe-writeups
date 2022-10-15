@@ -1,1 +1,1 @@
-# TryHackMe-writeups
+# tryhackme notes
